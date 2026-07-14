@@ -1,0 +1,11 @@
+.DS_Store
+.env
+.env.*
+!.env.example
+node_modules/
+output/
+assets/
+*.mp4
+*.mov
+*.wav
+*.mp3
